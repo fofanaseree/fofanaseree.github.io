@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Graduate);
+	@import url(https://fonts.googleapis.com/css?family=Comfortaa);
+h1 {
+	text-align: center;
+	font-family: Graduate
+
+}
+body {
+	text-align: center;
+	
+	
+	}
+
+p {
+	font-family: Comfortaa
+	}
+
+h2 {
+	font-family: Graduate
+}
